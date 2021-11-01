@@ -1,5 +1,6 @@
 {
     "coinmarketcap":    {
-        "url": "https://coinmarketcap.com/"
+        "url": "https://coinmarketcap.com/",
+        "airdrop_url": "https://coinmarketcap.com/airdrop/ongoing/"
     }
 }
